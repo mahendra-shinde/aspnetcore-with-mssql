@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DotNETCoreGettingStarted.Models.Catalog>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="col-md-12">
+        <h2>Products catalog</h2>
+        <table class="table table-striped table-bordered">
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Mfg Date</th>
+                <th>Category</th>
+            </tr>
+            @foreach(var product in Model ){
+            <tr >
+                <td>@Html.DisplayFor(modelItem => product.Name)</td>
+                <td>@Html.DisplayFor(modelItem => product.Price)</td>
+                <td>@Html.DisplayFor(modelItem => product.Quantity)</td>
+                <td>@Html.DisplayFor(modelItem => product.MfgDate)</td>
+                <td>@Html.DisplayFor(modelItem => product.CategoryName)</td>
+            </tr>
+            }
+            
+        </table>
+    </div>
+</div>

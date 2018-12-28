@@ -1,0 +1,11 @@
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/bin/Debug/netcoreapp2.0/sql-aspnet.deps.json
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/bin/Debug/netcoreapp2.0/sql-aspnet.runtimeconfig.json
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/bin/Debug/netcoreapp2.0/sql-aspnet.runtimeconfig.dev.json
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/bin/Debug/netcoreapp2.0/sql-aspnet.dll
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/bin/Debug/netcoreapp2.0/sql-aspnet.pdb
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.csprojAssemblyReference.cache
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.csproj.CoreCompileInputs.cache
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.AssemblyInfoInputs.cache
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.AssemblyInfo.cs
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.dll
+/home/mahendra/docker-demos/dotnet-core-demos/aspnet-sql/obj/Debug/netcoreapp2.0/sql-aspnet.pdb
